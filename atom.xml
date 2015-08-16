@@ -4,7 +4,7 @@
   <subtitle><![CDATA[一个超级马里奥的历险]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lxu4net.gitcafe.io/"/>
-  <updated>2015-08-16T16:03:34.000Z</updated>
+  <updated>2015-08-16T16:43:34.000Z</updated>
   <id>http://lxu4net.gitcafe.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://lxu4net.gitcafe.io/2015/08/16/dragonflow/"/>
     <id>http://lxu4net.gitcafe.io/2015/08/16/dragonflow/</id>
     <published>2015-08-16T10:00:00.000Z</published>
-    <updated>2015-08-16T16:03:34.000Z</updated>
+    <updated>2015-08-16T16:43:34.000Z</updated>
     <content type="html"><![CDATA[<p>之前就在考虑用OpenFlow实现虚拟路由的方法，正巧看见DragonFlow的介绍，原来已经有人先行了。</p>
 <h1 id="DragonFlow的简介">DragonFlow的简介</h1><p>DragonFlow在其<a href="https://launchpad.net/dragonflow" target="_blank" rel="external">首页</a>上是这样介绍自己的：</p>
 <p>Dragonflow是Neutron L3 Controller的扩展（add-on），实现了Neutron L3 Service APIs，提供分布式虚拟路由功能。</p>
@@ -107,8 +107,6 @@
       <category term="OpenStack" scheme="http://lxu4net.gitcafe.io/tags/OpenStack/"/>
     
       <category term="SDN" scheme="http://lxu4net.gitcafe.io/tags/SDN/"/>
-    
-      <category term="SDN" scheme="http://lxu4net.gitcafe.io/categories/SDN/"/>
     
   </entry>
   
